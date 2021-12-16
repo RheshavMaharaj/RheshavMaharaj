@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img alt="Rheshav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RheshavMaharaj&hide=prs&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img alt="Rheshav's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheshavMaharaj&layout=compact&theme=dracula" />
+  <img alt="Rheshav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RheshavMaharaj&hide=prs&show_icons=true&count_private=true&include_all_commits=true" />
+  <img alt="Rheshav's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheshavMaharaj&layout=compact" />
 
 </details>
 
