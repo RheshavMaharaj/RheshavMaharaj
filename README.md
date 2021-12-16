@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <!-- [<img align="left" alt="rheshav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Rheshav Maharaj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rheshav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rheshav Maharaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rheshav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rheshav Maharaj | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
+[<img align="left" alt="rheshav | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
+[<img align="left" alt="Rheshav Maharaj | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="rheshav | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 
 <br />
 
@@ -63,8 +63,10 @@ Here are some ideas to get you started:
 
 ### 📺 Latest Projects
 
-<!-- GITHUB:START -->
-<!-- GITHUB:END -->
+- <img alt="Discord Bot" width="26px" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" /> [Discord JS Multifunction Bot](https://github.com/RheshavMaharaj/discord-js-bot)
+- <img alt="Medical Clinic Management Suite" width="26px" src="https://cdn3.iconfinder.com/data/icons/dental-premium-color-symbol/91/Dental_-_Tooth_-_Dentist_-_Dentistry_47-512.png" /> [Medical Clinic Management Suite](https://github.com/RheshavMaharaj/mern-test)
+
+
 
 ---
 
