@@ -74,6 +74,7 @@ Here are some ideas to get you started:
   <summary>:zap: GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/RheshavMaharaj/mern-test/issues/1) in [RheshavMaharaj/mern-test](https://github.com/RheshavMaharaj/mern-test)
 <!--END_SECTION:activity-->
 
 </details>
